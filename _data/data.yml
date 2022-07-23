@@ -91,7 +91,7 @@ skills:
     - name: HTML & CSS
       level: 90%
 
-    - name: Javascript
+    - name: JAVASCRIPT & TYPESCRIPT
       level: 80%
 
     - name: REACTJS
@@ -105,6 +105,12 @@ skills:
 
     - name: CHAKRA-UI & TAILWINDCSS
       level: 98%
+
+    - name: ZUSTAND & REDUX
+      level: 85%
+
+    - name: REACT QUERY & SWR
+      level: 90%
 
     - name: MONGODB & FIREBASE
       level: 80%
