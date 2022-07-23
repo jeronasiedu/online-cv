@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -77,7 +77,7 @@ p {
 
   .avatar {
     //used for profile image
-    max-width: 100px;
+    width: 110px;
     margin-bottom: 15px;
     border: 0px solid #fff;
     border-radius: 100%;
