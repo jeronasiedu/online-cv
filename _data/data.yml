@@ -65,7 +65,7 @@ projects:
     Have a look at some of the awesome projects I built as I progressed through my development process
   assignments:
     - title: Fiber Site
-      link: 'fiber-site'
+      link: '#'
       tagline: 'A modern responsive agency website built with React and and Tailwindcss'
 
     - title: Rock Paper & Scissors
