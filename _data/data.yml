@@ -9,6 +9,8 @@ sidebar:
   # Profile information
   name: Tetteh Jeron Asiedu
   tagline: Full Stack Developer
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
   # Sidebar links
   email: norejudeisa@gmail.com
   phone: 054 475 1048
