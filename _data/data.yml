@@ -23,7 +23,7 @@ sidebar:
   telegram: JeronAsiedu # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter: '@norej_udeisa'
+  twitter: "@norej_udeisa"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,10 +49,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Frontend Developer with a problem solving focus towards the development of web apps.
+    Frontend and mobile app Developer with a problem solving focus towards the development of web and native apps.
     Utilizing enterprise level languages to deliver solutions with a customer ﬁrst approach.
     Hardworking and passionate job seeker with strong organizational skills eager to to secure
-    entry level frontend web developer position
+    entry level frontend web or mobile app developer position
 education:
   - degree: BSc in Computer Science
     university: Kwame Nkrumah University of Science and Technology
@@ -65,24 +65,28 @@ projects:
     Have a look at some of the awesome projects I built as I progressed through my development process. Check my github for more
   assignments:
     - title: Fiber Site
-      link: '#'
-      tagline: 'A modern responsive agency website built with React and and Tailwindcss'
+      link: "#"
+      tagline: "A modern responsive agency website built with React and and Tailwindcss"
 
     - title: Rock Paper & Scissors
-      link: '#'
-      tagline: 'Popular Rock & Paper Scissors game built with React and Tailwindcss.'
+      link: "#"
+      tagline: "Popular Rock & Paper Scissors game built with React and Tailwindcss."
 
     - title: Commune
-      link: '#'
-      tagline: 'A beautiful and responsive agency SASS landing page built with HTML and CSS'
+      link: "#"
+      tagline: "A beautiful and responsive agency SASS landing page built with HTML and CSS"
 
     - title: Countries Finder
-      link: '#'
-      tagline: 'Find important information about any country in a matter of seconds.'
+      link: "#"
+      tagline: "Find important information about any country in a matter of seconds."
 
     - title: Url Shortener
-      link: '#'
-      tagline: 'The good old day url shortener website built with HTML and CSS with a touch of Javascript'
+      link: "#"
+      tagline: "The good old day url shortener website built with HTML and CSS with a touch of Javascript"
+
+    - title: My Mtn App Clone
+      link: "#"
+      tagline: "MTN App Clone and Redesign built with Flutter "
 
 skills:
   title: Skills &amp; Proficiency
