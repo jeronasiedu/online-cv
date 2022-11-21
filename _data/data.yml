@@ -68,6 +68,10 @@ projects:
       link: "#"
       tagline: "A modern responsive agency website built with React and and Tailwindcss"
 
+    - title: Jeron Eeatery
+      link: "#"
+      tagline: "Food for all moods, where Ghana eats! A restaurant website built with React & Chakra UI"
+
     - title: Rock Paper & Scissors
       link: "#"
       tagline: "Popular Rock & Paper Scissors game built with React and Tailwindcss."
@@ -78,7 +82,7 @@ projects:
 
     - title: Countries Finder
       link: "#"
-      tagline: "Find important information about any country in a matter of seconds."
+      tagline: "Find important information about any country in a matter of seconds, built with NextJS and Chakra UI "
 
     - title: Url Shortener
       link: "#"
